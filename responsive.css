@@ -1,0 +1,164 @@
+	/* Midium layout */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	nav{margin-top:2%;}
+	.menu-list ul#nav > li {
+    padding: 10px;}
+	.professional-touch-text > h1{font-size:30px;line-height: 39px;}
+	.professional-touch-text > p{font-size:18px;line-height: 6px;}
+	.our-belif-text > p {
+		font-size: 17px;
+		line-height: 19.3px;}
+	.our-belif-text > h2 {
+		font-size: 27px;
+		line-height: 40px;}
+	.purches-btn {
+		left: 64.5%;
+		top: 91%;
+	}
+	.nus-ntu > h4 {
+    font-size: 16px;}
+	.purches-text > p {
+    margin: -20px 0 0;}
+	.purches-btn22 {
+    top: 78.8%;left: 63.4%;}
+	.our-promotions-left {
+    min-height: 378px;}
+	.slider-picture-left > img {
+    min-height: 343px;}
+
+}
+
+/*		Tablet Layout: 768px  */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.image-galarey {
+    width: 33%;}
+	.js .menu-list {
+		display:none;
+	}
+	
+	.js .slicknav_menu {
+		display:block;
+	}
+	.logo-area {
+    text-align: center;}
+	.professional-touch-text {
+    margin-top: 10%;}
+	.professional-touch-text h1 {
+    font-size: 35px;
+    line-height: 40px;}
+	.earnd-more-heading > h2 {width:90%; font-size: 25px;line-height: 33px;}
+	.our-belif-image {
+    margin-top: 20px;}
+	.slider-picture-left > img {
+    min-height: 355px;}
+	.slider-text-right > p {
+    font-size: 15px;
+    line-height: 16px;}
+	.carousel-indicators {
+    left: 42%;
+    top: 92%;}
+	.appoinment-btn {
+    margin: 3% auto 0;
+    width: 50%;}
+	.appoinment-text > p {
+    font-size: 19px;}
+	.appoinment-text > h2{font-size:25px;}
+	.recent-news-center > ul > li{padding:10px 0;}	
+	.recent-news-center > ul > li > a{font-size:19px;}	
+	.recent-news-right > h4 + p {margin-bottom: 2%;
+    padding-bottom: 3%;}
+	.recent-news-left > img { margin-bottom: 15px; margin-top: 6px;}
+	footer.footer-top-area{text-align:center;}
+	.recent-news-right > h4 + p{width:96%;}
+	.social-icon {
+    text-align: center;}
+	.our-promotions-middle img{width:100%;}
+	
+	
+	
+	
+}
+
+
+
+/*		Mobile Layout: 320px  */
+
+@media only screen and (max-width: 767px) {
+	.js .menu-list {
+		display:none;
+	}
+	
+	.js .slicknav_menu {
+		display:block;
+	}
+	.slider-picture-left{width:0;}
+	.slider-text-right{
+		width:100%;
+		padding:3% 6%;
+	}
+	.carousel-indicators {
+    left: 54%;}
+	.carousel-control {
+    width: 5%;}
+	.earnd-more-heading > h2 {
+		font-size: 25px;
+		line-height: 29px;
+		width: 96%;}
+	.our-belif-text > p {
+		font-size: 15px;
+		line-height: 20.3px;}
+	.our-belif-text > h2 {
+    font-size: 20px;
+    line-height: 20px;}
+	.our-belif-image {
+    margin-top: 20px;}	
+	.image-galarey {
+    width: 50%;}	
+	.social-icon {
+    text-align: center;}	
+	footer.footer-top-area {
+    text-align: center;}	
+	.recent-news-center > ul > li{padding:10px 0;}	
+	.recent-news-center > ul > li > a{font-size:19px;}	
+	.recent-news-right > h4 + p {margin-bottom: 2%;
+    padding-bottom: 3%;}
+	.recent-news-left > img { margin-bottom: 15px; margin-top: 6px;}
+	.appoinment-text > p {
+    font-size: 17px;}
+	.appoinment-text > h2 {
+    font-size: 19px;}
+	.appoinment-btn {
+    font-size: 14px;margin: 4.6% auto 0;width: 57%;}
+	.happy-customer-pragraph > p {
+    font-size: 18px;}
+	.happy-customer-heading > h2 {font-size:20px;}
+	.nus-ntu > img {
+    width: 100%;}
+	.purches-btn22 {left: 71.2%;top: 76.5%;}
+	.professional-touch-text h1 {
+    font-size: 23px;line-height: 30px;margin-top: 68%;}
+	.professional-touch-text > p {
+    font-size: 16px;
+    line-height: 16px;}
+	.logo-area {
+    text-align: center;}
+	.call-us-right-button {float: left;
+    margin-left: 39%;}
+	.call-us-left {
+    text-align: center;}
+	
+	
+}
+
+
+
+/*		Wide Mobile Layout: 480px  */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+
+}
+
+
